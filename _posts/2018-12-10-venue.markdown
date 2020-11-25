@@ -6,6 +6,6 @@ categories: Berkeley
 authors: "Brandon Trabucco, Albert Qu, Xuanlin Li, Ganeshkumar Ashokavardhanan"
 arxiv: https://arxiv.org/abs/1912.02714
 course: EECS 126 (Probability and Random Processes)
-image: /images/20181210.png
+image: /images/20181210.PNG
 ---
 Final course project for EECS 126 (Probability and Random Processes) in Fall 2018.
