@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TBD"
-date:   2021-03-01 22:21:59 +00:00
+date:   2021-3-1 22:21:59 +00:00
 authors: "*Zhuang Liu*, <strong>*Xuanlin Li*</strong>, Xiaolong Wang, Trevor Darrell"
 ---
 Research project on neural network pruning; to be submitted to ICCV 2021.
