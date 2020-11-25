@@ -5,5 +5,7 @@ image: /images/reg_opt.png
 categories: research
 authors: "Zhuang Liu*, <strong>Xuanlin Li*</strong>, Bingyi Kang, Trevor Darrell"
 venue: "Under Review at International Conference on Learning Representations (ICLR) 2021"
+arxiv: https://arxiv.org/abs/1910.09191
+code: https://github.com/xuanlinli17/po-rl-regularization
 ---
 We present the first comprehensive study of regularization techniques with multiple policy optimization algorithms on continuous control tasks. We show that conventional regularization methods in supervised learning, which have been largely ignored in RL methods, can be very effective in policy optimization on continuous control tasks, and our finding is robust against training hyperparameter variations. We also analyze why they can help policy generalization from sample complexity, return distribution, weight norm, and noise robustness perspectives.
