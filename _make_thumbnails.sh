@@ -1,2 +1,2 @@
-mogrify -path tn/images -thumbnail 160x160 images/*.png
-mogrify -path tn/images -thumbnail 160x160 images/*.jpg
+magick mogrify -path tn\\images -thumbnail 200x200 images\\*.png
+magick mogrify -path tn\\images -thumbnail 200x200 images\\*.jpg

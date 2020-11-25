@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Discovering Autoregressive Orderings with Variational Inference"
+image: /images/voi.png
+categories: research
+authors: "<strong>Xuanlin Li</strong>, Brandon Trabucco, Dong Huk Park, Yang Gao, Michael Luo, Sheng Shen, Trevor Darrell"
+venue: "Under Review at International Conference on Learning Representations (ICLR) 2021"
+---
+We propose the first domain-independent unsupervised / self-supervised learner that discovers high-quality autoregressive orders through fully-parallelizable end-to-end training without domain-specific tuning. Empirical results on vision and language tasks suggest that with similar hyperparameters, our algorithm is capable of recovering autoregressive orders that are even better than fixed orders. Case studies suggest that our learned orders depend adaptively on content, and resemble a type of best-first generation order, which first decodes focal objects and names.

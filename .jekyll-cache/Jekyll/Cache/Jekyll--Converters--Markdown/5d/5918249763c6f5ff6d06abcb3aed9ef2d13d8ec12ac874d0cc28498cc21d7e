@@ -1,0 +1,2 @@
+I"4<p>We present the first comprehensive study of regularization techniques with multiple policy optimization algorithms on continuous control tasks. We show that conventional regularization methods in supervised learning, which have been largely ignored in RL methods, can be very effective in policy optimization on continuous control tasks, and our finding is robust against training hyperparameter variations. We also analyze why they can help policy generalization from sample complexity, return distribution, weight norm, and noise robustness perspectives.</p>
+:ET
