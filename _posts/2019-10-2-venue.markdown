@@ -4,7 +4,7 @@ title:  "Regularization Matters in Policy Optimization - An Empirical Study on C
 image: /images/reg_opt.png
 categories: research
 authors: "Zhuang Liu*, <strong>Xuanlin Li*</strong>, Bingyi Kang, Trevor Darrell"
-venue: "Under Review at International Conference on Learning Representations (ICLR) 2021 (ratings in top 15% of submissions)"
+venue: "Under Review at International Conference on Learning Representations (ICLR) 2021 (ratings in top 6% of submissions)"
 arxiv: https://arxiv.org/abs/1910.09191
 code: https://github.com/xuanlinli17/po-rl-regularization
 ---
