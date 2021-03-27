@@ -75,8 +75,11 @@
               <a href="{{post.paper}}">paper</a> /
               {% endif %}              
               {% if post.video %}
-              <a href="{{post.video}}">video</a> /
+              <a href="{{post.video}}">video</a> /              
               {% endif %}
+              {% if post.video_transcripts %}
+              <a href="{{post.video_transcripts}}">video_transcripts</a> /
+              {% endif %}              
               {% if post.code %}
               <a href="{{post.code}}">code</a> /
               {% endif %}
@@ -85,7 +88,7 @@
               {% endif %}
               {% if post.slides %}
               <a href="{{post.slides}}">slides</a> /
-              {% endif %}
+              {% endif %}         
               <p></p>
               {{ post.excerpt }}
             </td>
