@@ -6,5 +6,7 @@ categories: research
 authors: "<strong>Xuanlin Li*</strong>, Brandon Trabucco*, Dong Huk Park, Yang Gao, Michael Luo, Sheng Shen, Trevor Darrell"
 venue: <em>International Conference on Learning Representations (ICLR) 2021</em>
 paper: https://openreview.net/pdf?id=jP1vTH3inC
+slides: https://docs.google.com/presentation/d/1w5D9TrOKKMnT9ip81LnbtxfW-4UHIVc5sOd2W4phGiw/edit?usp=sharing
+poster: https://drive.google.com/file/d/1rZooC6ED4MemoL2Sfo-xNPeZwkSFDyR8/view?usp=sharing
 ---
 We propose the first domain-independent unsupervised / self-supervised learner that discovers high-quality autoregressive orders through fully-parallelizable end-to-end training without domain-specific tuning. Empirical results on vision and language tasks suggest that with similar hyperparameters, our algorithm is capable of recovering autoregressive orders that are even better than fixed orders. Case studies suggest that our learned orders depend adaptively on content, and resemble a type of best-first generation order, which first decodes focal objects and names.
