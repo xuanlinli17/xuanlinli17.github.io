@@ -48,6 +48,7 @@
               <h2>Research</h2>
               <p>
                 I am interested in embodied AI, which combines perspectives from computer vision, deep reinforcement learning, and natural language processing to enable robots to acquire concepts and generalizable skills. I am also interested in self-supervised and unsupervised representation learning, neural network architecture learning, and optimization.
+                <br> (* = equal first-author contribution)
               </p>
             </td>
           </tr>
@@ -74,7 +75,10 @@
               {% endif %}
               {% if post.paper %}
               <a href="{{post.paper}}">paper</a> /
-              {% endif %}              
+              {% endif %}
+              {% if post.website %}
+              <a href="{{post.website}}">website</a> /
+              {% endif %}                            
               {% if post.video %}
               <a href="{{post.video}}">video</a> /              
               {% endif %}
@@ -84,6 +88,9 @@
               {% if post.code %}
               <a href="{{post.code}}">code</a> /
               {% endif %}
+              {% if post.implementation %}
+              <a href="{{post.implementation}}">implementation</a> /
+              {% endif %}              
               {% if post.poster %}
               <a href="{{post.poster}}">poster</a> /
               {% endif %}

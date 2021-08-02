@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "ManiSkill: Learning-from-Demonstrations Benchmark for Generalizable Manipulation Skills"
+image: /images/opendrawer.png
+categories: research
+authors: "Tongzhou Mu*, Zhan Ling*, Fanbo Xiang*, Derek Yang*, <strong>Xuanlin Li*</strong>, Stone Tao, Zhiao Huang, Zhiwei Jia, Hao Su"
+venue: In Submission
+arxiv: https://arxiv.org/abs/2107.14483
+website: https://sapien.ucsd.edu/challenges/maniskill2021/
+video: https://www.youtube.com/watch?v=u3KV7g7kHuY
+code: https://github.com/haosulab/ManiSkill
+implementation: https://github.com/haosulab/ManiSkill-Learn
+---
+Learning generalizable manipulation skills is central for robots to achieve task automation in real-life environments with endless scene and object variations. We propose SAPIEN Manipulation Skill Benchmark (abbreviated as ManiSkill, pronounced as "Many Skill"), a large-scale learning-from-demonstrations benchmark for articulated object manipulation with visual input (point cloud and image). ManiSkill supports object-level variations by utilizing a rich and diverse set of articulated objects, and each task is carefully designed for learning manipulations on a single category of objects. We equip ManiSkill with high-quality demonstrations to facilitate learning-from-demonstrations approaches and perform evaluations on common baseline algorithms. We believe ManiSkill can encourage the robot learning community to explore more on learning generalizable object manipulation skills.
