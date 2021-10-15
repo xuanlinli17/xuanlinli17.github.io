@@ -4,7 +4,7 @@ title:  "ManiSkill: Generalizable Manipulation Skill Benchmark with Large-Scale 
 image: /images/opendrawer.png
 categories: research
 authors: "Tongzhou Mu*, Zhan Ling*, Fanbo Xiang*, Derek Yang*, <strong>Xuanlin Li*</strong>, Stone Tao, Zhiao Huang, Zhiwei Jia, Hao Su"
-venue: Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track
+venue: Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2021
 arxiv: https://arxiv.org/abs/2107.14483
 website: https://sapien.ucsd.edu/challenges/maniskill2021/
 video: https://www.youtube.com/watch?v=u3KV7g7kHuY
