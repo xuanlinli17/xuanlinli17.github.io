@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Discovering Autoregressive Orderings with Variational Inference"
+title:  "Discovering Non-Monotonic Autoregressive Orderings with Variational Inference"
 image: /images/voi.png
 categories: research
 authors: "<strong>Xuanlin Li*</strong>, Brandon Trabucco*, Dong Huk Park, Yang Gao, Michael Luo, Sheng Shen, Trevor Darrell"
