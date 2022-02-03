@@ -1,8 +1,0 @@
----
-layout: post
-title:  "TBD"
-categories: Ongoing_Research
-<!-- date:   2020-10-1 22:21:59 +00:00 -->
-authors: "Zhuang Liu*, <strong>Xuanlin Li*</strong>, Xiaolong Wang, Trevor Darrell"
----
-Research project on neural network pruning.
