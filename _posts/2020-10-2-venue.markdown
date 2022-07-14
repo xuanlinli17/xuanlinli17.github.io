@@ -5,7 +5,7 @@ image: /images/voi.png
 categories: research
 authors: "<strong>Xuanlin Li*</strong>, Brandon Trabucco*, Dong Huk Park, Yang Gao, Michael Luo, Sheng Shen, Trevor Darrell"
 venue: <em>International Conference on Learning Representations (ICLR) 2021</em>
-paper: https://arxiv.org/abs/2110.15797
+arxiv: https://arxiv.org/abs/2110.15797
 code: https://github.com/xuanlinli17/autoregressive_inference
 slides: https://docs.google.com/presentation/d/1w5D9TrOKKMnT9ip81LnbtxfW-4UHIVc5sOd2W4phGiw/edit?usp=sharing
 poster: https://drive.google.com/file/d/1rZooC6ED4MemoL2Sfo-xNPeZwkSFDyR8/view?usp=sharing

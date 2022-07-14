@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Improving Policy Optimization with Generalist-Specialist Learning"
+image: /images/gsl.png
+categories: research
+authors: "Zhiwei Jia, <strong>Xuanlin Li</strong>, Zhan Ling, Shuang Liu, Yiran Wu, Hao Su"
+venue: <em>International Conference on Machine Learning (ICML) 2022</em>
+arxiv: https://arxiv.org/abs/2206.12984
+website: https://zjia.eng.ucsd.edu/gsl
+code: https://github.com/seanjia/gsl
+---
+In large-scale RL, a "generalist" agent jointly trained on all goals tends to learn faster at the beginning, yet it often suffers from catastrophic ignorance & forgetting, leading to suboptimal final performance. In contrast, a "specialist" agent trained only on a few variations can often achieve high final returns, yet its initial learning has low sample efficiency. To have the best of both worlds, we propose GSL, a novel generalist-specialist learning framework and a well-principled meta-algorithm. We show that our framework pushes the envelope of policy learning on many challenging and popular benchmarks including Procgen, Meta-World and ManiSkill.
