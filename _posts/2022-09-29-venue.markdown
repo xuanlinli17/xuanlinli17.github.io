@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Frame Mining: a Free Lunch for Learning Robotic Manipulation from 3D Point Clouds"
+image: /images/frame_mining_teaser.png
+categories: research
+authors: "Minghua Liu*, <strong>Xuanlin Li*</strong>, Zhan Ling*, Yangyan Li, Hao Su"
+venue: CoRL 2022
+paper: https://openreview.net/pdf?id=oB3U8sbSfmV
+---
+We study how choices of input point cloud coordinate frames affect learning of manipulation skills from 3D point clouds. There exist a variety of coordinate frame choices to normalize captured robot-object-interaction point clouds. We find that different frame choices have a profound impact on agent learning performance, and the trend is similar across 3D backbone networks. In particular, the end-effector frame and the target-part frame achieve higher training efficiency than the commonly used world frame and robot-base frame in many tasks, and we analyze how they
+provide helpful alignments among point clouds across time steps and thus simplifying visual module learning. Moreover, the well-performing frames vary across tasks, and some tasks may benefit from multiple frame candidates. We thus propose FrameMiners to adaptively select candidate frames and fuse their merits in a task-agnostic manner. Experimentally, FrameMiners achieves on-par or significantly higher performance than the best single-frame version on five fully physical manipulation tasks adapted from ManiSkill and OCRTOC. Without changing existing camera placements or adding extra cameras, point cloud frame mining can serve as a free lunch to improve 3D manipulation learning.
