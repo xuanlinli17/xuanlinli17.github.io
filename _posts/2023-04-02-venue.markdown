@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "On the Efficacy of 3D Point Cloud Reinforcement Learning"
+image: /images/3d_pointcloud_rl.png
+categories: research
+authors: "Zhan Ling*, Yunchao Yao*, <strong>Xuanlin Li</strong>, Hao Su"
+venue: Preprint
+arxiv: https://arxiv.org/pdf/2306.06799
+code: https://github.com/lz1oceani/pointcloud_rl
+---

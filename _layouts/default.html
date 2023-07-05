@@ -18,7 +18,7 @@
 
 
 <body>
-  <table style="width:100%;max-width:1200px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <table style="width:80%;max-width:1200px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tr style="padding:0px">
       <td style="padding:0px">
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
@@ -27,14 +27,14 @@
               <h1>
                 Xuanlin (Simon) Li
               </h1>
-              <p style="font-size:18px;">I am a second-year PhD student at UCSD CSE, advised by Prof. <a style="font-size:18px;" href="https://cseweb.ucsd.edu/~haosu/">Hao Su</a> (2021-). Previously I was an undergraduate majoring in Mathematics and Computer Science at UC Berkeley (2017-2021). I was also an undergraduate research assistant at <a style="font-size:18px;" href="https://bair.berkeley.edu/">Berkeley Artificial Intelligence Research</a>, where I was advised by <a style="font-size:18px;" href="https://www2.eecs.berkeley.edu/Faculty/Homepages/darrell.html">Prof. Trevor Darrell</a>.
+              <p style="font-size:16px;">I am a second-year PhD student at UCSD CSE, advised by Prof. <a style="font-size:16px;" href="https://cseweb.ucsd.edu/~haosu/">Hao Su</a> (2021-). Previously I was an undergraduate majoring in Mathematics and Computer Science at UC Berkeley (2017-2021). I was also an undergraduate research assistant at <a style="font-size:16px;" href="https://bair.berkeley.edu/">Berkeley Artificial Intelligence Research</a>, where I was advised by <a style="font-size:16px;" href="https://www2.eecs.berkeley.edu/Faculty/Homepages/darrell.html">Prof. Trevor Darrell</a>.
               </p>
               <p style="text-align:center">
-                <!-- <a style="font-size:18px;" href="https://xuanlinli17.github.io/pdfs/Resume_new.pdf" target="_blank">Resume (Oct.22)</a> &nbsp;/&nbsp; -->
-                <a style="font-size:18px;" href="https://github.com/xuanlinli17">GitHub</a> &nbsp;/&nbsp;
-                <a style="font-size:18px;" href="https://scholar.google.com/citations?user=7vyVxxQAAAAJ&hl=en">Google Scholar</a> &nbsp;/&nbsp;
-                <a style="font-size:18px;" href="https://www.linkedin.com/in/xuanlin-li-4684b8145/"> LinkedIn </a> &nbsp;/&nbsp;
-                <a style="font-size:18px;" href="https://twitter.com/XuanlinLi2">Twitter</a>
+                <!-- <a style="font-size:16px;" href="https://xuanlinli17.github.io/pdfs/Resume_new.pdf" target="_blank">Resume (Oct.22)</a> &nbsp;/&nbsp; -->
+                <a style="font-size:16px;" href="https://github.com/xuanlinli17">GitHub</a> &nbsp;/&nbsp;
+                <a style="font-size:16px;" href="https://scholar.google.com/citations?user=7vyVxxQAAAAJ&hl=en">Google Scholar</a> &nbsp;/&nbsp;
+                <a style="font-size:16px;" href="https://www.linkedin.com/in/xuanlin-li-4684b8145/"> LinkedIn </a> &nbsp;/&nbsp;
+                <a style="font-size:16px;" href="https://twitter.com/XuanlinLi2">Twitter</a>
               </p>
             </td>
             <td style="padding:2.5%;width:25%;max-width:25%">
@@ -48,7 +48,7 @@
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Research</h2>
               <p>
-                I am interested in many aspects of computer vision, robotics, and NLP. In particular, I'm interested in embodied AI and building general 3D/2D perception and policy models to enable robots to acquire concepts and generalizable skills.
+                I am interested in many aspects of computer vision, robotics, and NLP. In particular, I'm interested in embodied AI and building general 3D/2D vision-language and policy models that are central to agent (e.g., robot) decision making, allowing agents to acquire generalizable skills (e.g., generalizable object manipulation) and accomplish generic tasks through data-driven, learning-based approaches.
                 <br> (* = equal contribution)
               </p>
             </td>
@@ -60,10 +60,10 @@
           {% for cat in post.categories %}
           {% if cat == 'research' %}
           <tr>
-            <td style="padding:2.5%;width:45%;vertical-align:middle;min-width:120px">
+            <td style="padding:2.5%;width:50%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
-            <td style="padding:2.5%;width:55%;vertical-align:middle">
+            <td style="padding:2.5%;width:50%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
               {{post.authors}}
@@ -245,6 +245,46 @@
           {% endif %}
           {% endfor %}
           {% endfor %}
+        </table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Experiences</h2>
+              <p>
+                Qualcomm AI Research, Research Intern, Mar. 2023 - now <br />
+                Berkeley Artificial Intelligence Research, Undergraduate Research Assistant, 2019 - 2021 <br />
+              </p>
+            </td>
+          </tr>
+        </table>
+
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr>
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+              <h2>Services</h2>
+              <ul>  
+                <li>
+                  <p>
+                  <b> Challenge Organizer:</b> 
+                    <ul>
+                      <li> <a href="https://sapien.ucsd.edu/challenges/maniskill/2021/">SAPIEN Manipulation Skill Challenge 1</a>  </li>
+                      <li> <a href="https://sapien.ucsd.edu/challenges/maniskill/2022/">SAPIEN Manipulation Skill Challenge 2</a> </li>
+                    </ul>
+                  </p>
+                </li>
+                <li> 
+                  <p>
+                  <b> Conference Reviewer:</b> 
+                    <ul>
+                      <li> Computer Vision: CVPR 2022-2023, ECCV 2022, ICCV 2023 </li>
+                      <li> Machine Learning: NeurIPS 2022-2023, ICML 2022-2023, ICLR 2022 (Blog Track) </li>
+                    </ul>
+                  </p>
+                </li>
+              </ul>
+            </td>
+          </tr>
         </table>
 
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">

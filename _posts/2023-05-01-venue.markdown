@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Situated Real-time Interaction with a Virtually Embodied Avatar"
+image: /images/situated_workout_bot.png
+categories: research
+authors: "Sunny Panchal, Guillaume Berger, Antoine Mercier, Cornelius Bohm, Florian Dietrichkeit, <strong>Xuanlin Li</strong>, Reza Pourreza, Pulkit Madan, Apratim Bhattacharyya, Mingu Lee, Mark Todorovich, Ingo Bax, Roland Memisevic"
+venue: CVPR 2023 Embodied AI Workshop (Preprint)
+paper: https://embodied-ai.org/papers/2023/13.pdf
+---
