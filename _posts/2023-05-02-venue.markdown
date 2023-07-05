@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OpenShape: Scaling Up 3D Shape Representation Towards Open-World Understanding"
-image: /images/openshape.png
+image: /images/openshape.PNG
 categories: research
 authors: "Minghua Liu*, Ruoxi Shi*, Kaiming Kuang*, Yinhao Zhu, <strong>Xuanlin Li</strong>, Shizhong Han, Hong Cai, Fatih Porikli, Hao Su"
 venue: Preprint

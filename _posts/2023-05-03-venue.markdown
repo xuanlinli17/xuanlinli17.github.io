@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deductive Verification of Chain-of-Thought Reasoning"
-image: /images/deductive_verification_cot.png
+image: /images/deductive_verification_cot.PNG
 categories: research
 authors: "Zhan Ling*, Yunhao Fang*, <strong>Xuanlin Li</strong>, Zhiao Huang, Mingu Lee, Roland Memisevic, Hao Su"
 venue: Preprint

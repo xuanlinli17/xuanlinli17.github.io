@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Distilling Large Vision-Language Model with Out-of-Distribution Generalizability"
-image: /images/large_vlm_distillation_ood.png
+image: /images/large_vlm_distillation_ood.PNG
 categories: research
 authors: "<strong>Xuanlin Li*</strong>, Yunhao Fang*, Minghua Liu, Zhan Ling, Zhuowen Tu, Hao Su"
 venue: Preprint

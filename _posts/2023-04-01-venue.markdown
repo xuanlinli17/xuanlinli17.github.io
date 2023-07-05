@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reparameterized Policy Learning for Multimodal Trajectory Optimization"
-image: /images/reparametrized_pg.png
+image: /images/reparametrized_pg.PNG
 categories: research
 authors: "Zhiao Huang, Litian Liang, Zhan Ling, <strong>Xuanlin Li</strong>, Chuang Gan, Hao Su"
 venue: International Conference on Machine Learning (ICML) 2023 <font color=#FF8080><strong>(Oral)</strong></font>
