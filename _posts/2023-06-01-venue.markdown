@@ -4,7 +4,7 @@ title:  "Distilling Large Vision-Language Model with Out-of-Distribution General
 image: /images/large_vlm_distillation_ood.PNG
 categories: research
 authors: "<strong>Xuanlin Li*</strong>, Yunhao Fang*, Minghua Liu, Zhan Ling, Zhuowen Tu, Hao Su"
-venue: Preprint
+venue: International Conference on Computer Vision (ICCV) 2023
 arxiv: https://arxiv.org/pdf/2307.03135
 code: https://github.com/xuanlinli17/large_vlm_distillation_ood
 ---
