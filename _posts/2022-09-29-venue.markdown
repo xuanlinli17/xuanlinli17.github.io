@@ -8,5 +8,5 @@ venue: Conference on Robot Learning (CoRL) 2022
 arxiv: https://arxiv.org/pdf/2210.07442.pdf
 website: https://colin97.github.io/FrameMining/
 code: https://github.com/xuanlinli17/corl_22_frame_mining
-video: https://www.youtube.com/watch?v=bLg-YOFvPOc
+video: https://www.youtube.com/watch?v=bLg-YOFvPOc\
 ---

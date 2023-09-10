@@ -7,4 +7,5 @@ authors: "<strong>Xuanlin Li*</strong>, Yunhao Fang*, Minghua Liu, Zhan Ling, Zh
 venue: International Conference on Computer Vision (ICCV) 2023
 arxiv: https://arxiv.org/pdf/2307.03135
 code: https://github.com/xuanlinli17/large_vlm_distillation_ood
+poster: https://xuanlinli17.github.io/pdfs/iccv23_vlmdistillation_poster.pdf
 ---
