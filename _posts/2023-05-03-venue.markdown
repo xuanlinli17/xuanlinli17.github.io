@@ -4,7 +4,7 @@ title:  "Deductive Verification of Chain-of-Thought Reasoning"
 image: /images/deductive_verification_cot.PNG
 categories: research
 authors: "Zhan Ling*, Yunhao Fang*, <strong>Xuanlin Li</strong>, Zhiao Huang, Mingu Lee, Roland Memisevic, Hao Su"
-venue: NeurIPS 2023
+venue: Neural Information Processing Systems (NeurIPS) 2023
 arxiv: https://arxiv.org/pdf/2306.03872
 code: https://github.com/lz1oceani/verify_cot
 ---
