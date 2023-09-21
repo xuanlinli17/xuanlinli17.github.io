@@ -4,7 +4,7 @@ title:  "OpenShape: Scaling Up 3D Shape Representation Towards Open-World Unders
 image: /images/openshape.PNG
 categories: research
 authors: "Minghua Liu*, Ruoxi Shi*, Kaiming Kuang*, Yinhao Zhu, <strong>Xuanlin Li</strong>, Shizhong Han, Hong Cai, Fatih Porikli, Hao Su"
-venue: Preprint
+venue: NeurIPS 2023
 arxiv: https://arxiv.org/pdf/2305.10764.pdf
 website: https://colin97.github.io/OpenShape/
 code: https://github.com/Colin97/OpenShape_code
