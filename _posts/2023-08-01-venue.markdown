@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Unleashing the Creative Mind: Language Model As Hierarchical Policy For Improved Exploration on Challenging Problem Solving"
+image: /images/llm_hierarchical_policy.PNG
+categories: research
+authors: "Zhan Ling, Yunhao Fang, <strong>Xuanlin Li</strong>, Tongzhou Mu, Mingu Lee, Reza Pourreza, Roland Memisevic, Hao Su"
+venue: Preprint
+arxiv: https://arxiv.org/pdf/2311.00694
+---
