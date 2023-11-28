@@ -3,7 +3,7 @@ layout: post
 title:  "Frame Mining: a Free Lunch for Learning Robotic Manipulation from 3D Point Clouds"
 image: /images/frame_mining_teaser.png
 categories: research
-authors: "Minghua Liu*, <strong>Xuanlin Li*</strong>, Zhan Ling*, Yangyan Li, Hao Su"
+authors: "<strong>Xuanlin Li*</strong>, Minghua Liu*, Zhan Ling*, Yangyan Li, Hao Su"
 venue: Conference on Robot Learning (CoRL) 2022
 arxiv: https://arxiv.org/pdf/2210.07442.pdf
 website: https://colin97.github.io/FrameMining/
