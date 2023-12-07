@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PartSLIP++: Enhancing Low-Shot 3D Part Segmentation via Multi-View Instance Segmentation and Maximum Likelihood Estimation"
+image: /images/partslip2.PNG
+categories: research
+authors: "Yuchen Zhou*, Jiayuan Gu*, <strong> Xuanlin Li </strong>, Minghua Liu, Yunhao Fang, Hao Su"
+venue: Preprint
+arxiv: https://arxiv.org/pdf/2312.03015
+---
