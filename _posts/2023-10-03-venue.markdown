@@ -3,7 +3,7 @@ layout: post
 title:  "Open X-Embodiment: Robotic Learning Datasets and RT-X Models"
 image: /images/rt-x.png
 categories: research
-authors: Contributor
+authors: Contributor & Author
 venue: ICRA 2024
 paper: https://robotics-transformer-x.github.io/paper.pdf
 website: https://robotics-transformer-x.github.io/
