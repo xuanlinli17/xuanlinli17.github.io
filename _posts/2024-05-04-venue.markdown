@@ -4,7 +4,7 @@ title:  "Evaluating Real-World Robot Manipulation Policies in Simulation"
 image: /images/simpler.png
 categories: research
 authors: "<strong>Xuanlin Li*</strong>, Kyle Hsu*, Jiayuan Gu*, Karl Pertsch^, Oier Mees^, Homer Rich Walke, Chuyuan Fu, Ishikaa Lunawat, Isabel Sieh, Sean Kirmani, Sergey Levine, Jiajun Wu, Chelsea Finn, Hao Su^^, Quan Vuong^^, Ted Xiao^^"
-venue: Preprint
+venue: Conference on Robot Learning (CoRL) 2024
 paper: https://arxiv.org/abs/2405.05941
 website: https://simpler-env.github.io/
 code: https://github.com/simpler-env/SimplerEnv
