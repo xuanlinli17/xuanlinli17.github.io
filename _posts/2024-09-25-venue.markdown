@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation"
+image: /images/glide.png
+categories: research
+authors: "<strong>Xuanlin Li</strong>, Tong Zhao, Xinghao Zhu, Jiuguang Wang, Tao Pang, Kuan Fang"
+venue: Preprint
+<!-- paper:  -->
+website: https://glide-manip.github.io/
+<!-- code:  -->
+---
