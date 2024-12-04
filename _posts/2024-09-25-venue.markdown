@@ -5,7 +5,7 @@ image: /images/glide.png
 categories: research
 authors: "<strong>Xuanlin Li</strong>, Tong Zhao, Xinghao Zhu, Jiuguang Wang, Tao Pang, Kuan Fang"
 venue: Preprint
-<!-- paper:  -->
+paper: https://arxiv.org/pdf/2412.02676
 website: https://glide-manip.github.io/
 <!-- code:  -->
 ---
